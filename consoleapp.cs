@@ -12,6 +12,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Estamos em fase de testes");
             Console.WriteLine("O teste foi concluido e esta pronto para implementação")
+            Console.WriteLine("Bug corrigido por Magno");
         }
     }
 }
